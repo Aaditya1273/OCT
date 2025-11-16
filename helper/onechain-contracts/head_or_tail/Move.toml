@@ -1,0 +1,9 @@
+[package]
+name = "head_or_tail_game"
+edition = "2024.beta"
+
+[dependencies]
+One = { git = "https://github.com/one-chain-labs/onechain.git", subdir = "crates/sui-framework/packages/one-framework", rev = "main" }
+
+[addresses]
+head_or_tail_game = "0x0"
