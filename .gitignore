@@ -54,6 +54,9 @@ Thumbs.db
 /move/build/
 /move/.move/
 
+# Helper folder (reference only, not part of build)
+/helper/
+
 # Logs
 logs
 *.log
